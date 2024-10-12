@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "ROS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/galactic/include/**",
+                "/usr/include/x86_64-linux-gnu/qt5/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/opt/ros/galactic/include",
+                    "/usr/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
